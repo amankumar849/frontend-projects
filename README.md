@@ -22,3 +22,6 @@
 
 ## Day 07
 ### Youtube Clone
+
+## Day 08
+### Javascript Documentation
