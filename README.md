@@ -6,10 +6,6 @@
 ## Day 02
 ### Job Application Web Page
 
-
-
-
-
 ## Day 03
 ### Parallax Scrolling Website
 
