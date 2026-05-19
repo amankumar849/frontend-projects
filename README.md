@@ -10,9 +10,6 @@
 ### Parallax Scrolling Website
 
 ## Day 04
-
-
-
 ### Developer | Landing Page
 
 ## Day 05
